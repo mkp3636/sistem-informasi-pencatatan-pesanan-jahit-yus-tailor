@@ -45,8 +45,8 @@
 
                 </div>
                 <div class="panel-footer">
-                    <a href="?page=baju&actions=tampil" class="btn btn-danger btn-sm">
-                        Kembali Ke Data Baju
+                    <a href="?page=pelanggan&actions=tampil" class="btn btn-danger btn-sm">
+                        Kembali Ke Data Pelanggan
                     </a>
                 </div>
             </div>
