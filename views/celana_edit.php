@@ -167,7 +167,7 @@ $data= mysqli_fetch_array($ambil);
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-9">
                                 <button type="submit" class="btn btn-success">
-                                    <span class="fa fa-edit"></span> Update Data Arsip</button>
+                                    <span class="fa fa-edit"></span> Update Data Celana</button>
                             </div>
                         </div>
                     </form>
